@@ -15,6 +15,7 @@ Hi, I'm Vinay 👋
 - Teacher’s Tracking Portal
 
 🎯 Career Goal
+
 To work as a Full Stack Developer where I can build scalable web applications and grow as a software engineer.
 
 📫 Connect with Me
