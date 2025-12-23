@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Vinay 👋
 
-<!--
-**VinaySolanki08/VinaySolanki08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Graduate  
+💻 Aspiring Full Stack / MERN Developer  
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+- JavaScript (ES6+)
+- React.js
+- Node.js
+- Express.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects
+- Tech Placement Records Portal (MERN)
+- Teacher’s Tracking Portal
+
+🎯 Career Goal
+To work as a Full Stack Developer where I can build scalable web applications and grow as a software engineer.
+
+📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/solanki-vinay
+- Email: solankivinay310@gmail.com
